@@ -4,7 +4,6 @@ import hashlib
 import subprocess  # Добавляем модуль для выполнения команд
 
 COMMIT = input("Введите коммит: ")
-SERVER_PROPERTIES_PATH = r"D:\.servers\Marsh's Server\server.properties"
 RESOURCEPACK_NAME = "resourcepack.zip"
 
 def sha1(file_path):
