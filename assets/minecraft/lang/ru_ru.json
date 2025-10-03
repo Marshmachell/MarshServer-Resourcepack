@@ -1,4 +1,13 @@
 {
+    "entity.minecraft.illusioner": "Лучник",
+    "subtitles.entity.illusioner.ambient": "Лучник бормочет",
+    "subtitles.entity.illusioner.cast_spell": "Лучник колдует",
+    "subtitles.entity.illusioner.death": "Лучник погибает",
+    "subtitles.entity.illusioner.hurt": "Лучник ранен",
+    "subtitles.entity.illusioner.mirror_move": "Лучник наводит иллюзию",
+    "subtitles.entity.illusioner.prepare_blindness": "Лучник к чему-то готовится",
+    "subtitles.entity.illusioner.prepare_mirror": "Лучник к чему-то готовится",
+
     "marsh.system.restart": "Перезагрузка сервера через %s %s!",
     "marsh.system.restarting": "Перезагрузка сервера..",
     "marsh.system.restart.minutes": "минут",

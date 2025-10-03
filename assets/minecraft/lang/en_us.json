@@ -1,4 +1,14 @@
-{    
+{
+    "entity.minecraft.illusioner": "Archer",
+    "subtitles.entity.illusioner.ambient": "Archer murmurs",
+    "subtitles.entity.illusioner.cast_spell": "Archer casts spell",
+    "subtitles.entity.illusioner.death": "Archer dies",
+    "subtitles.entity.illusioner.hurt": "Archer hurts",
+    "subtitles.entity.illusioner.mirror_move": "Archer displaces",
+    "subtitles.entity.illusioner.prepare_blindness": "Archer prepares something",
+    "subtitles.entity.illusioner.prepare_mirror": "Archer prepares something",
+  
+
     "marsh.system.restart": "Server restarting will be in %s %s!",
     "marsh.system.restarting": "Server is restarting..",
     "marsh.system.restart.minutes": "minutes",
