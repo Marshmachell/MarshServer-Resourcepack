@@ -7,21 +7,12 @@
     "subtitles.entity.illusioner.mirror_move": "Archer displaces",
     "subtitles.entity.illusioner.prepare_blindness": "Archer prepares something",
     "subtitles.entity.illusioner.prepare_mirror": "Archer prepares something",
-  
 
     "marsh.system.restart": "Server restarting will be in %s %s!",
     "marsh.system.restarting": "Server is restarting..",
     "marsh.system.restart.minutes": "minutes",
     "marsh.system.restart.seconds": "seconds",
     "marsh.system.restart.many": "",
-
-    "marsh.dialog.rules.title": "Main rules of Marsh's Server. Season 0",
-    "marsh.dialog.rules.yes": "Agree",
-    "marsh.dialog.rules.body.0": "By pressing the \"%s\" button, you agree with the following rules:",
-    "marsh.dialog.rules.body.1": "1. Do not griefing",
-    "marsh.dialog.rules.body.2": "2. Do not cheating",
-    "marsh.dialog.rules.body.3": "3. Do not stealing",
-    "marsh.dialog.rules.body.4": "4. Do not be a freak",
 
     "marsh.item.musician_bundle": "Musician's Bundle",
     "marsh.item.top_hat": "Top Hat",
@@ -35,6 +26,7 @@
     "marsh.item.umbrella_hat": "Umbrella Hat",
     "marsh.item.golden_potato": "Golden Potato",
     "marsh.item.cockerel_candy": "Cockerel Candy",
+    "marsh.item.ruby": "Ruby",
     
     "marsh.item.absent_bottle": "Absent Bottle",
     "marsh.item.alcohol_bottle": "Alcohol Bottle",

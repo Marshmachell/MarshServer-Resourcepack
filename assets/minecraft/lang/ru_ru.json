@@ -14,14 +14,6 @@
     "marsh.system.restart.seconds": "секунд",
     "marsh.system.restart.many": "ы",
 
-    "marsh.dialog.rules.title": "Главные правила Сервера Марша. Сезон 0",
-    "marsh.dialog.rules.yes": "Принимаю",
-    "marsh.dialog.rules.body.0": "Нажимая кнопку \"%s\" Вы соглашаетесь со следующими правилами:",
-    "marsh.dialog.rules.body.1": "1. Не гриферить",
-    "marsh.dialog.rules.body.2": "2. Не читерить",
-    "marsh.dialog.rules.body.3": "3. Не воровать",
-    "marsh.dialog.rules.body.4": "4. Не быть фриком",
-
     "marsh.item.musician_bundle": "Мешок музыканта",
     "marsh.item.top_hat": "Цилиндр",
     "marsh.item.straw_hat": "Соломенная шляпа",
@@ -34,6 +26,7 @@
     "marsh.item.umbrella_hat": "Шляпа-зонтик",
     "marsh.item.golden_potato": "Золотая картошка",
     "marsh.item.cockerel_candy": "Петушок на палочке",
+    "marsh.item.ruby": "Рубин",
     
     "marsh.item.absent_bottle": "Бутылка абсента",
     "marsh.item.alcohol_bottle": "Бутылка спирта",
