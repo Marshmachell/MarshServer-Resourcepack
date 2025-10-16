@@ -1,6 +1,6 @@
 {
   "model": {
     "type": "minecraft:model",
-    "model": "marsh:item/cockerel_candy"
+    "model": "marsh:item/food/cockerel_candy"
   }
 }

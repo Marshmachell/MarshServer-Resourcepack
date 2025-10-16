@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "marsh:item/armor/harness/armored_orange_harness"
+    "layer0": "marsh:item/armor/harness/armored/armored_orange_harness"
   }
 }
