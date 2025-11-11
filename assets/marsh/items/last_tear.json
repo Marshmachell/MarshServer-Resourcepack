@@ -1,6 +1,6 @@
 {
   "model": {
     "type": "minecraft:model",
-    "model": "marsh:item/last_tear"
+    "model": "marsh:item/misc/last_tear"
   }
 }

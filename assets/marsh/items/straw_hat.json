@@ -7,13 +7,13 @@
         "when": "head",
         "model": {
           "type": "minecraft:model",
-          "model": "marsh:item/straw_hat/model"
+          "model": "marsh:item/armor/straw_hat/model"
         }
       }
     ],
     "fallback": {
       "type": "minecraft:model",
-      "model": "marsh:item/straw_hat/item"
+      "model": "marsh:item/armor/straw_hat/item"
     }
   }
 }

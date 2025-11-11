@@ -1,6 +1,6 @@
 {
   "model": {
     "type": "minecraft:model",
-    "model": "marsh:item/stone_battle_axe"
+    "model": "marsh:item/weapon/stone_battle_axe"
   }
 }

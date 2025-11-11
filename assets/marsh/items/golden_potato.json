@@ -1,6 +1,6 @@
 {
   "model": {
     "type": "minecraft:model",
-    "model": "marsh:item/golden_potato"
+    "model": "marsh:item/food/golden_potato"
   }
 }

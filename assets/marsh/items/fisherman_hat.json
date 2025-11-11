@@ -7,13 +7,13 @@
         "when": "head",
         "model": {
           "type": "minecraft:model",
-          "model": "marsh:item/fisherman_hat/model"
+          "model": "marsh:item/armor/fisherman_hat/model"
         }
       }
     ],
     "fallback": {
       "type": "minecraft:model",
-      "model": "marsh:item/fisherman_hat/item"
+      "model": "marsh:item/armor/fisherman_hat/item"
     }
   }
 }

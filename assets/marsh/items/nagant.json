@@ -16,11 +16,11 @@
                 "keybind": "key.sneak",
                 "on_true": {
                   "type": "minecraft:model",
-                  "model": "marsh:item/nagant/nagant_scoped"
+                  "model": "marsh:item/weapon/nagant/nagant_scoped"
                 },
                 "on_false": {
                   "type": "minecraft:model",
-                  "model": "marsh:item/nagant/nagant_charged"
+                  "model": "marsh:item/weapon/nagant/nagant_charged"
                 }
               }
             },
@@ -32,18 +32,18 @@
                 "keybind": "key.sneak",
                 "on_true": {
                   "type": "minecraft:model",
-                  "model": "marsh:item/nagant/nagant_scoped"
+                  "model": "marsh:item/weapon/nagant/nagant_scoped"
                 },
                 "on_false": {
                   "type": "minecraft:model",
-                  "model": "marsh:item/nagant/nagant_charged"
+                  "model": "marsh:item/weapon/nagant/nagant_charged"
                 }
               }
             }
           ],
           "fallback": {
             "type": "minecraft:model",
-            "model": "marsh:item/nagant/nagant"
+            "model": "marsh:item/weapon/nagant/nagant"
           }
         }
       ]
@@ -54,21 +54,21 @@
         {
           "model": {
             "type": "minecraft:model",
-            "model": "marsh:item/nagant/nagant_pulling_1"
+            "model": "marsh:item/weapon/nagant/nagant_pulling_1"
           },
           "threshold": 0.58
         },
         {
           "model": {
             "type": "minecraft:model",
-            "model": "marsh:item/nagant/nagant_pulling_2"
+            "model": "marsh:item/weapon/nagant/nagant_pulling_2"
           },
           "threshold": 1
         }
       ],
       "fallback": {
         "type": "minecraft:model",
-        "model": "marsh:item/nagant/nagant_pulling_0"
+        "model": "marsh:item/weapon/nagant/nagant_pulling_0"
       },
       "property": "minecraft:crossbow/pull"
     },
