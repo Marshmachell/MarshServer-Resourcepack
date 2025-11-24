@@ -1,0 +1,20 @@
+{
+  "layers": {
+    "wings": [
+      {
+        "dyeable": {
+          "color_when_undyed": -6265536
+        },
+        "texture": "marsh:cape/leather"
+      }
+    ],
+    "humanoid": [
+      {
+        "dyeable": {
+          "color_when_undyed": -6265536
+        },
+        "texture": "marsh:cape/leather"
+      }
+    ]
+  }
+}
