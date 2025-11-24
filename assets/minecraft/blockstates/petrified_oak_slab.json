@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "minecraft:block/petrified_oak_slab"
+    },
+    "type=double": {
+      "model": "marsh:block/advanced_lodestone"
+    },
+    "type=top": {
+      "model": "minecraft:block/petrified_oak_slab_top"
+    }
+  }
+}
