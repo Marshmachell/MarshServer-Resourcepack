@@ -22,5 +22,12 @@
                 "stream": true
             }
         ]
-    }
+    },
+    "entity.steam_minecart.steam": {
+      "category": "entity",
+      "sounds": [
+        {"name": "marsh:steam"}
+      ],
+      "subtitle": "subtitles.entity.marsh.steam_minecart.steam"
+  }
 }

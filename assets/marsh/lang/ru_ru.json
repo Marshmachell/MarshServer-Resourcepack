@@ -90,6 +90,7 @@
     "subtitles.entity.illusioner.mirror_move": "Лучник наводит иллюзию",
     "subtitles.entity.illusioner.prepare_blindness": "Лучник к чему-то готовится",
     "subtitles.entity.illusioner.prepare_mirror": "Лучник к чему-то готовится",
+    "subtitles.entity.marsh.steam_minecart.steam": "Выпуск пара",
     "system.marsh.restart": "Перезагрузка сервера через %s %s!",
     "system.marsh.restart.many": "ы",
     "system.marsh.restart.minutes": "минут",

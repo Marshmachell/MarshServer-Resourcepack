@@ -93,5 +93,6 @@
     "subtitles.entity.illusioner.hurt": "Archer hurts",
     "subtitles.entity.illusioner.mirror_move": "Archer displaces",
     "subtitles.entity.illusioner.prepare_blindness": "Archer prepares something",
-    "subtitles.entity.illusioner.prepare_mirror": "Archer prepares something"
+    "subtitles.entity.illusioner.prepare_mirror": "Archer prepares something",
+    "subtitles.entity.marsh.steam_minecart.steam": "Letting off steam"
 }
