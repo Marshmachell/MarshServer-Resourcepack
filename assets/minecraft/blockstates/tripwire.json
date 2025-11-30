@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "attached=true,disarmed=true,east=false,north=false,south=false,west=false": {
+        "model": "marsh:entity/minecart/copper_minecart"
+    },
+    "attached=true,disarmed=true,east=true,north=false,south=false,west=false": {
+        "model": "marsh:entity/minecart/steam_minecart"
+    }
+  }
+}

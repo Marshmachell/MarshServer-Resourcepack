@@ -1,4 +1,7 @@
 {
+    "item.marsh.copper_minecart": "Copper Minecart",
+    "item.marsh.steam_minecart": "Steam Minecart",
+
     "block.marsh.advanced_lodestone": "Advanced Lodestone",
     "dialog.advanced_lodestone": "Advanced Lodestone Settings",
     "dialog.advanced_lodestone.activate": "Activate",

@@ -1,4 +1,7 @@
 {
+    "item.marsh.copper_minecart": "Медная вагонетка",
+    "item.marsh.steam_minecart": "Паровая вагонетка",
+
     "block.marsh.advanced_lodestone": "Продвинутый магнетит",
     "dialog.advanced_lodestone": "Настройки продвинутого магнетита",
     "dialog.advanced_lodestone.activate": "Активировать",
