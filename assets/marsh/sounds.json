@@ -24,10 +24,30 @@
         ]
     },
     "entity.steam_minecart.steam": {
-      "category": "entity",
-      "sounds": [
-        {"name": "marsh:steam"}
-      ],
-      "subtitle": "subtitles.entity.marsh.steam_minecart.steam"
-  }
+        "category": "entity",
+        "sounds": [
+            {
+                "name": "marsh:steam"
+            }
+        ],
+        "subtitle": "subtitles.entity.steam_minecart.steam"
+    },
+    "entity.daddy.greeting01": {
+        "category": "master",
+        "sounds": [
+            {
+                "name": "marsh:entity/daddy/greeting01"
+            }
+        ],
+        "subtitle": "subtitles.entity.daddy.greeting"
+    },
+    "entity.daddy.greeting02": {
+        "category": "master",
+        "sounds": [
+            {
+                "name": "marsh:entity/daddy/greeting02"
+            }
+        ],
+        "subtitle": "subtitles.entity.daddy.greeting"
+    }
 }
