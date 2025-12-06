@@ -5,147 +5,119 @@
     "component": "minecraft:custom_name",
     "cases": [
       {
-        "when": "Absent",
+        "when": ["Absent","Абсент"],
         "model": {
           "type": "minecraft:model",
           "model": "marsh:item/food/absent_bottle"
         }
       },
       {
-        "when": "Alcohol",
+        "when": ["Alcohol","Спирт"],
         "model": {
           "type": "minecraft:model",
           "model": "marsh:item/food/alcohol_bottle"
         }
       },
       {
-        "when": "Beer",
+        "when": ["Beer","Pivo","Пиво"],
         "model": {
           "type": "minecraft:model",
           "model": "marsh:item/food/beer_bottle"
         }
       },
       {
-        "when": "Pivo",
-        "model": {
-          "type": "minecraft:model",
-          "model": "marsh:item/food/beer_bottle"
-        }
-      },
-      {
-        "when": "Cider",
+        "when": ["Cider","Сидр"],
         "model": {
           "type": "minecraft:model",
           "model": "marsh:item/food/cider_bottle"
         }
       },
       {
-        "when": "Cognac",
+        "when": ["Cognac","Коньяк"],
         "model": {
           "type": "minecraft:model",
           "model": "marsh:item/food/cognac_bottle"
         }
       },
       {
-        "when": "Flower wine",
+        "when": ["Flower wine","Цветочное вино"],
         "model": {
           "type": "minecraft:model",
           "model": "marsh:item/food/flower_wine_bottle"
         }
       },
       {
-        "when": "Grog",
+        "when": ["Grog","Грог"],
         "model": {
           "type": "minecraft:model",
           "model": "marsh:item/food/grog_bottle"
         }
       },
       {
-        "when": "Koumiss",
+        "when": ["Koumiss","Cumis","Cumiz","Kumis","Кумыс"],
         "model": {
           "type": "minecraft:model",
           "model": "marsh:item/food/koumiss_bottle"
         }
       },
       {
-        "when": "Cumis",
-        "model": {
-          "type": "minecraft:model",
-          "model": "marsh:item/food/koumiss_bottle"
-        }
-      },
-      {
-        "when": "Cumiz",
-        "model": {
-          "type": "minecraft:model",
-          "model": "marsh:item/food/koumiss_bottle"
-        }
-      },
-      {
-        "when": "Kumis",
-        "model": {
-          "type": "minecraft:model",
-          "model": "marsh:item/food/koumiss_bottle"
-        }
-      },
-      {
-        "when": "Mead",
+        "when": ["Mead","Медовуха"],
         "model": {
           "type": "minecraft:model",
           "model": "marsh:item/food/mead_bottle"
         }
       },
       {
-        "when": "Mulled wine",
+        "when": ["Mulled wine","Глинтвейн"],
         "model": {
           "type": "minecraft:model",
           "model": "marsh:item/food/mulled_wine_bottle"
         }
       },
       {
-        "when": "Rakia",
+        "when": ["Rakia","Ракия"],
         "model": {
           "type": "minecraft:model",
           "model": "marsh:item/food/rakia_bottle"
         }
       },
       {
-        "when": "Rum",
+        "when": ["Rum","Ром"],
         "model": {
           "type": "minecraft:model",
           "model": "marsh:item/food/rum_bottle"
         }
       },
       {
-        "when": "Tarkhuna",
+        "when": ["Tarkhuna","Тархун"],
         "model": {
           "type": "minecraft:model",
           "model": "marsh:item/food/tarkhuna_bottle"
         }
       },
       {
-        "when": "Tequila",
+        "when": ["Tequila","Текила"],
         "model": {
           "type": "minecraft:model",
           "model": "marsh:item/food/tequila_bottle"
         }
       },
       {
-        "when": "Vodka",
+        "when": ["Vodka","Водка"],
         "model": {
           "type": "minecraft:model",
           "model": "marsh:item/food/vodka_bottle"
         }
       },
       {
-        "when": "Whiskey",
+        "when": ["Whiskey","Виски"],
         "model": {
           "type": "minecraft:model",
           "model": "marsh:item/food/whiskey_bottle"
         }
       },
       {
-        "when": "Wine",
+        "when": ["Wine","Вино"],
         "model": {
           "type": "minecraft:model",
           "model": "marsh:item/food/wine_bottle"
