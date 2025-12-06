@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/carved_pumpkin",
+  "textures": {
+    "front": "marsh:block/carved_pumpkin/carved_pumpkin_03"
+  }
+}

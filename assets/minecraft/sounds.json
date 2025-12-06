@@ -1,0 +1,38 @@
+{
+    "entity.minecart.inside": {
+        "sounds": [
+            {
+                "name": "minecart/inside",
+                "volume": 0.26
+            }
+        ],
+        "replace": true
+    },
+    "entity.minecart.inside.underwater": {
+        "sounds": [
+            {
+                "name": "minecart/inside_underwater1",
+                "volume": 0.445
+            },
+            {
+                "name": "minecart/inside_underwater2",
+                "volume": 0.445
+            },
+            {
+                "name": "minecart/inside_underwater3",
+                "volume": 0.445
+            }
+        ],
+        "replace": true
+    },
+    "entity.minecart.riding": {
+        "sounds": [
+            {
+                "name": "minecart/base",
+                "volume": 0.445
+            }
+        ],
+        "replace": true,
+        "subtitle": "subtitles.entity.minecart.riding"
+    }
+}
