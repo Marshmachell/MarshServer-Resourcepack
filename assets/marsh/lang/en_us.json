@@ -1,7 +1,4 @@
 {
-    "item.marsh.copper_minecart": "Copper Minecart",
-    "item.marsh.steam_minecart": "Steam Minecart",
-
     "block.marsh.advanced_lodestone": "Advanced Lodestone",
     "dialog.advanced_lodestone": "Advanced Lodestone Settings",
     "dialog.advanced_lodestone.activate": "Activate",
@@ -34,10 +31,12 @@
     "item.marsh.armored_white_harness": "Armored White Harness",
     "item.marsh.armored_yellow_harness": "Armored Yellow Harness",
     "item.marsh.beer_bottle": "Beer Bottle",
+    "item.marsh.burger": "Burger",
     "item.marsh.charred_shulker_box": "Charred Shulker Box",
     "item.marsh.cider_bottle": "Cider Bottle",
     "item.marsh.cockerel_candy": "Cockerel Candy",
     "item.marsh.cognac_bottle": "Cognac Bottle",
+    "item.marsh.copper_minecart": "Copper Minecart",
     "item.marsh.cowboy_boots": "Cowboy Boots",
     "item.marsh.cowboy_hat": "Cowboy Hat",
     "item.marsh.fisherman_hat": "Fisherman Hat",
@@ -65,6 +64,7 @@
     "item.marsh.koumiss_bottle": "Koumiss Bottle",
     "item.marsh.last_tear": "Last Tear",
     "item.marsh.last_tear.lore": "The last tear of %s..",
+    "item.marsh.longburger": "Longburger",
     "item.marsh.mead_bottle": "Mead Bottle",
     "item.marsh.mulled_wine_bottle": "Mulled Wine Bottle",
     "item.marsh.musician_bundle": "Musician's Bundle",
@@ -72,6 +72,7 @@
     "item.marsh.rakia_bottle": "Rakia Bottle",
     "item.marsh.rum_bottle": "Rum Bottle",
     "item.marsh.ruby": "Ruby",
+    "item.marsh.steam_minecart": "Steam Minecart",
     "item.marsh.straw_hat": "Straw Hat",
     "item.marsh.tarkhuna_bottle": "Tarkhuna Bottle",
     "item.marsh.tequila_bottle": "Tequila Bottle",
@@ -87,6 +88,7 @@
     "server.marsh.restart.minutes": "minutes",
     "server.marsh.restart.seconds": "seconds",
     "server.marsh.restarting": "Server is restarting..",
+    "subtitles.entity.daddy.greeting": "Daddy greets",
     "subtitles.entity.illusioner.ambient": "Archer murmurs",
     "subtitles.entity.illusioner.cast_spell": "Archer casts spell",
     "subtitles.entity.illusioner.death": "Archer dies",
@@ -94,6 +96,5 @@
     "subtitles.entity.illusioner.mirror_move": "Archer displaces",
     "subtitles.entity.illusioner.prepare_blindness": "Archer prepares something",
     "subtitles.entity.illusioner.prepare_mirror": "Archer prepares something",
-    "subtitles.entity.steam_minecart.steam": "Letting off steam",
-    "subtitles.entity.daddy.greeting": "Daddy greets"
+    "subtitles.entity.steam_minecart.steam": "Letting off steam"
 }

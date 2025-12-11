@@ -1,13 +1,9 @@
 {
   "pack": {
-    "pack_format": 81,
     "description": {
       "translate": "resourcepack.marsh.description",
       "fallback": "Server resourcepack.\nSeason 1"
     },
-    "supported_formats": [
-      80,
-      91
-    ]
+    "pack_format": 91
   }
 }
