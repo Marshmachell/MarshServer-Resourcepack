@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "marsh:item/food/gingerbread_02"
+    "layer0": "marsh:item/food/gingerbread_pine"
   }
 }
