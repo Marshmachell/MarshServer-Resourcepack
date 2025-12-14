@@ -84,6 +84,7 @@
     "item.marsh.vodka_bottle": "Vodka Bottle",
     "item.marsh.whiskey_bottle": "Whiskey Bottle",
     "item.marsh.wine_bottle": "Wine Bottle",
+    "item.marsh.present": "Present",
     "item.minecraft.potion.effect.growing": "Potion of Growing",
     "item.minecraft.potion.effect.shrinking": "Potion of Shrinking",
     "server.marsh.restart": "Server restarting will be in %s %s!",
