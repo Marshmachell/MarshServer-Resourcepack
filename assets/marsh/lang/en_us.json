@@ -100,5 +100,11 @@
     "subtitles.entity.illusioner.mirror_move": "Archer displaces",
     "subtitles.entity.illusioner.prepare_blindness": "Archer prepares something",
     "subtitles.entity.illusioner.prepare_mirror": "Archer prepares something",
-    "subtitles.entity.steam_minecart.steam": "Letting off steam"
+    "subtitles.entity.steam_minecart.steam": "Letting off steam",
+    "subtitles.entity.werewolf.bark": "Werewolf barks",
+    "subtitles.entity.werewolf.death": "Werewolf dies",
+    "subtitles.entity.werewolf.growl": "Werewolf growls",
+    "subtitles.entity.werewolf.hurt": "Werewolf hurts",
+    "subtitles.entity.werewolf.pant": "Werewolf pants",
+    "subtitles.entity.werewolf.whine": "Werewolf whines"
 }

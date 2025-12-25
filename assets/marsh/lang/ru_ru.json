@@ -101,5 +101,11 @@
     "system.marsh.restart.many": "ы",
     "system.marsh.restart.minutes": "минут",
     "system.marsh.restart.seconds": "секунд",
-    "system.marsh.restarting": "Перезагрузка сервера.."
+    "system.marsh.restarting": "Перезагрузка сервера..",
+    "subtitles.entity.werewolf.bark": "Оборотень лает",
+    "subtitles.entity.werewolf.death": "Оборотень умирает",
+    "subtitles.entity.werewolf.growl": "Оборотень рычит",
+    "subtitles.entity.werewolf.hurt": "Оборотень ранен",
+    "subtitles.entity.werewolf.pant": "Оборотень тяжело дышит",
+    "subtitles.entity.werewolf.whine": "Оборотень стонет"
 }

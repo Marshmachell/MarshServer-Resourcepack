@@ -1,0 +1,6 @@
+{
+    "parent": "minecraft:item/spear_in_hand",
+    "textures": {
+        "layer0": "marsh:item/weapon/netherite_pitchfork_in_hand"
+    }
+}

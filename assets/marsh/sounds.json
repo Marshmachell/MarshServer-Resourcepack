@@ -1,53 +1,92 @@
 {
-    "scheming_weasel": {
-        "sounds": [
-            {
-                "name": "marsh:records/scheming_weasel",
-                "stream": true
-            }
-        ]
-    },
-    "three_little_birds": {
-        "sounds": [
-            {
-                "name": "marsh:records/three_litle_birds",
-                "stream": true
-            }
-        ]
-    },
-    "i_shot_the_sheriff": {
-        "sounds": [
-            {
-                "name": "marsh:records/i_shot_the_sheriff",
-                "stream": true
-            }
-        ]
-    },
-    "entity.steam_minecart.steam": {
-        "category": "entity",
-        "sounds": [
-            {
-                "name": "marsh:steam"
-            }
-        ],
-        "subtitle": "subtitles.entity.steam_minecart.steam"
-    },
-    "entity.daddy.greeting01": {
-        "category": "master",
-        "sounds": [
-            {
-                "name": "marsh:entity/daddy/greeting01"
-            }
-        ],
-        "subtitle": "subtitles.entity.daddy.greeting"
-    },
-    "entity.daddy.greeting02": {
-        "category": "master",
-        "sounds": [
-            {
-                "name": "marsh:entity/daddy/greeting02"
-            }
-        ],
-        "subtitle": "subtitles.entity.daddy.greeting"
-    }
+  "scheming_weasel": {
+    "sounds": [
+      {
+        "name": "marsh:records/scheming_weasel",
+        "stream": true
+      }
+    ]
+  },
+  "three_little_birds": {
+    "sounds": [
+      {
+        "name": "marsh:records/three_litle_birds",
+        "stream": true
+      }
+    ]
+  },
+  "i_shot_the_sheriff": {
+    "sounds": [
+      {
+        "name": "marsh:records/i_shot_the_sheriff",
+        "stream": true
+      }
+    ]
+  },
+  "entity.steam_minecart.steam": {
+    "sounds": [
+      {
+        "name": "marsh:steam"
+      }
+    ],
+    "subtitle": "subtitles.entity.steam_minecart.steam"
+  },
+  "entity.daddy.greeting01": {
+    "sounds": [
+      {
+        "name": "marsh:entity/daddy/greeting01"
+      }
+    ],
+    "subtitle": "subtitles.entity.daddy.greeting"
+  },
+  "entity.daddy.greeting02": {
+    "sounds": [
+      {
+        "name": "marsh:entity/daddy/greeting02"
+      }
+    ],
+    "subtitle": "subtitles.entity.daddy.greeting"
+  },
+  "entity.werewolf.ambient": {
+    "sounds": [
+      "marsh:mob/wolf/werewolf/bark1",
+      "marsh:mob/wolf/werewolf/bark2",
+      "marsh:mob/wolf/werewolf/bark3"
+    ],
+    "subtitle": "subtitles.entity.werewolf.bark"
+  },
+  "entity.werewolf.death": {
+    "sounds": [
+      "marsh:mob/wolf/werewolf/death"
+    ],
+    "subtitle": "subtitles.entity.werewolf.death"
+  },
+  "entity.werewolf.growl": {
+    "sounds": [
+      "marsh:mob/wolf/werewolf/growl1",
+      "marsh:mob/wolf/werewolf/growl2",
+      "marsh:mob/wolf/werewolf/growl3"
+    ],
+    "subtitle": "subtitles.entity.werewolf.growl"
+  },
+  "entity.werewolf.hurt": {
+    "sounds": [
+      "marsh:mob/wolf/werewolf/hurt1",
+      "marsh:mob/wolf/werewolf/hurt2",
+      "marsh:mob/wolf/werewolf/hurt3"
+    ],
+    "subtitle": "subtitles.entity.werewolf.hurt"
+  },
+  "entity.werewolf.pant": {
+    "sounds": [
+      "marsh:mob/wolf/werewolf/panting"
+    ],
+    "subtitle": "subtitles.entity.werewolf.pant"
+  },
+  "entity.werewolf.whine": {
+    "sounds": [
+      "marsh:mob/wolf/werewolf/whine"
+    ],
+    "subtitle": "subtitles.entity.werewolf.whine"
+  }
 }
