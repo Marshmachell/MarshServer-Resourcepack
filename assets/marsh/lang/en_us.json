@@ -106,5 +106,10 @@
     "subtitles.entity.werewolf.growl": "Werewolf growls",
     "subtitles.entity.werewolf.hurt": "Werewolf hurts",
     "subtitles.entity.werewolf.pant": "Werewolf pants",
-    "subtitles.entity.werewolf.whine": "Werewolf whines"
+    "subtitles.entity.werewolf.whine": "Werewolf whines",
+    "item.marsh.copper_golem_elf_hat": "Elf Hat",
+    "item.marsh.module_farmer": "Farmer Module",
+    "item.marsh.module_milker": "Milker Module",
+    "item.marsh.copper_golem_rastaman_hat": "Rastaman Hat",
+    "item.marsh.copper_golem_xmas_hat": "Christmas Hat"
 }

@@ -107,5 +107,10 @@
     "subtitles.entity.werewolf.growl": "Оборотень рычит",
     "subtitles.entity.werewolf.hurt": "Оборотень ранен",
     "subtitles.entity.werewolf.pant": "Оборотень тяжело дышит",
-    "subtitles.entity.werewolf.whine": "Оборотень стонет"
+    "subtitles.entity.werewolf.whine": "Оборотень стонет",
+    "item.marsh.copper_golem_elf_hat": "Эльфийская шляпа",
+    "item.marsh.module_farmer": "Модуль фермера",
+    "item.marsh.module_milker": "Модуль дояра",
+    "item.marsh.copper_golem_rastaman_hat": "Растаманская шляпа",
+    "item.marsh.copper_golem_xmas_hat": "Рождественская шляпа"
 }
