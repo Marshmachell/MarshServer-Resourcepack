@@ -2,8 +2,8 @@
 	"credit": "Made by Falanta Fantomo with Blockbench",
 	"texture_size": [32, 32],
 	"textures": {
-		"main": "marsh:item/copper_golem/farmer_module",
-		"particle": "marsh:item/copper_golem/farmer_module"
+		"main": "marsh:item/copper_golem/module_farmer",
+		"particle": "marsh:item/copper_golem/module_farmer"
 	},
 	"elements": [
 		{

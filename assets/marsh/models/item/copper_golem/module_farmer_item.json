@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "marsh:item/copper_golem/milkmaid_module_item"
+    "layer0": "marsh:item/copper_golem/module_farmer_item"
   }
 }

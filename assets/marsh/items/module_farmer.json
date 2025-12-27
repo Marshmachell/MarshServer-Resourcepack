@@ -7,13 +7,13 @@
         "when": "head",
         "model": {
           "type": "minecraft:model",
-          "model": "marsh:item/copper_golem/farmer_module"
+          "model": "marsh:item/copper_golem/module_farmer"
         }
       }
     ],
     "fallback": {
       "type": "minecraft:model",
-      "model": "marsh:item/copper_golem/farmer_module_item"
+      "model": "marsh:item/copper_golem/module_farmer_item"
     }
   }
 }
