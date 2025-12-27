@@ -1,0 +1,121 @@
+{
+	"credit": "Made by Falanta Fantomo with Blockbench",
+	"texture_size": [32, 32],
+	"textures": {
+		"main": "marsh:item/copper_golem/milkmaid_module",
+		"particle": "marsh:item/copper_golem/milkmaid_module"
+	},
+	"elements": [
+		{
+			"from": [3.99, 6, 2.99],
+			"to": [12.01, 11, 13.01],
+			"faces": {
+				"north": {"uv": [12, 13.5, 16, 16], "texture": "#main"},
+				"east": {"uv": [3, 13.5, 8, 16], "texture": "#main"},
+				"south": {"uv": [8, 13.5, 12, 16], "texture": "#main"},
+				"west": {"uv": [8, 13.5, 3, 16], "texture": "#main"}
+			}
+		},
+		{
+			"from": [4.99, 6.99, 2],
+			"to": [7.01, 9.01, 3],
+			"faces": {
+				"east": {"uv": [0, 13.5, 1, 14], "rotation": 90, "texture": "#main"},
+				"west": {"uv": [0, 13, 1, 13.5], "rotation": 90, "texture": "#main"},
+				"up": {"uv": [0, 14.5, 1, 15], "texture": "#main"},
+				"down": {"uv": [0, 14, 1, 14.5], "texture": "#main"}
+			}
+		},
+		{
+			"from": [8.99, 6.99, 2],
+			"to": [11.01, 9.01, 3],
+			"rotation": {"angle": 0, "axis": "y", "origin": [16, 0, 0]},
+			"faces": {
+				"east": {"uv": [0, 13.5, 1, 13], "rotation": 90, "texture": "#main"},
+				"west": {"uv": [0, 14, 1, 13.5], "rotation": 90, "texture": "#main"},
+				"up": {"uv": [1, 14.5, 0, 15], "texture": "#main"},
+				"down": {"uv": [1, 14, 0, 14.5], "texture": "#main"}
+			}
+		},
+		{
+			"from": [4.99, 6.99, 2],
+			"to": [7.01, 9.01, 2],
+			"light_emission": 15,
+			"faces": {
+				"north": {"uv": [0, 15, 1, 16], "texture": "#main"}
+			}
+		},
+		{
+			"from": [8.99, 6.99, 2],
+			"to": [11.01, 9.01, 2],
+			"light_emission": 15,
+			"rotation": {"angle": 0, "axis": "y", "origin": [16, 0, 0]},
+			"faces": {
+				"north": {"uv": [1, 15, 0, 16], "texture": "#main"}
+			}
+		},
+		{
+			"from": [4, 11, 3],
+			"to": [12, 15, 13],
+			"faces": {
+				"north": {"uv": [0, 0, 4, 2], "texture": "#main"},
+				"east": {"uv": [9, 0, 4, 2], "texture": "#main"},
+				"south": {"uv": [9, 0, 13, 2], "texture": "#main"},
+				"west": {"uv": [4, 0, 9, 2], "texture": "#main"},
+				"up": {"uv": [0, 2, 4, 7], "texture": "#main"}
+			}
+		},
+		{
+			"from": [3, 11, 2],
+			"to": [13, 11, 14],
+			"faces": {
+				"up": {"uv": [4, 2, 10, 7], "rotation": 90, "texture": "#main"},
+				"down": {"uv": [10, 2, 4, 7], "rotation": 90, "texture": "#main"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [75, 45, 0],
+			"translation": [0, 2.5, 0],
+			"scale": [0.1, 0.1, 0.1]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [75, 45, 0],
+			"translation": [0, 2.5, 0],
+			"scale": [0.1, 0.1, 0.1]
+		},
+		"firstperson_righthand": {
+			"rotation": [0, 45, 0],
+			"scale": [0.2, 0.2, 0.2]
+		},
+		"firstperson_lefthand": {
+			"rotation": [0, 45, 0],
+			"scale": [0.2, 0.2, 0.2]
+		},
+		"ground": {
+			"scale": [0.1, 0.1, 0.1]
+		},
+		"gui": {
+			"rotation": [20, 135, 0],
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"head": {
+			"translation": [0, -0.375, 0],
+			"scale": [1.51, 1.51, 1.51]
+		},
+		"fixed": {
+			"rotation": [-90, 0, 0],
+			"translation": [0, 0, -16],
+			"scale": [2, 2, 2]
+		}
+	},
+	"groups": [
+		{
+			"name": "engineer_module",
+			"origin": [8, 8, 8],
+			"color": 0,
+			"children": [0, 1, 2, 3, 4, 5, 6]
+		}
+	]
+}

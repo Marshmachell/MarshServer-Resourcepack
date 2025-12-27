@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "marsh:item/copper_golem/farmer_module_item"
+  }
+}

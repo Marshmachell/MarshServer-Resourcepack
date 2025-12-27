@@ -1,0 +1,102 @@
+{
+	"credit": "Made by Falanta Fantomo with Blockbench",
+	"texture_size": [32, 32],
+	"textures": {
+		"main": "marsh:item/copper_golem/rastaman_hat",
+		"particle": "marsh:item/copper_golem/rastaman_hat"
+	},
+	"elements": [
+		{
+			"from": [4, 11, 3],
+			"to": [12, 12, 13],
+			"faces": {
+				"north": {"uv": [0, 0, 4, 0.5], "texture": "#main"},
+				"east": {"uv": [4, 0, 9, 0.5], "texture": "#main"},
+				"south": {"uv": [9, 0, 13, 0.5], "texture": "#main"},
+				"west": {"uv": [9, 0, 4, 0.5], "texture": "#main"}
+			}
+		},
+		{
+			"from": [3.99, 6, 2.99],
+			"to": [12.01, 11, 13.01],
+			"faces": {
+				"north": {"uv": [12, 13.5, 16, 16], "texture": "#main"},
+				"east": {"uv": [4, 9, 9, 11.5], "texture": "#main"},
+				"south": {"uv": [9, 9, 13, 11.5], "texture": "#main"},
+				"west": {"uv": [9, 9, 4, 11.5], "texture": "#main"}
+			}
+		},
+		{
+			"from": [4.99, 6.99, 2.995],
+			"to": [7.01, 9.01, 2.995],
+			"light_emission": 15,
+			"faces": {
+				"north": {"uv": [10.5, 14.5, 11.5, 15.5], "texture": "#main"}
+			}
+		},
+		{
+			"from": [8.99, 6.99, 2.995],
+			"to": [11.01, 9.01, 2.995],
+			"light_emission": 15,
+			"faces": {
+				"north": {"uv": [8.5, 14.5, 9.5, 15.5], "texture": "#main"}
+			}
+		},
+		{
+			"from": [3.5, 12, 2.5],
+			"to": [12.5, 18, 13.5],
+			"faces": {
+				"north": {"uv": [0, 0.5, 4.5, 3.5], "texture": "#main"},
+				"east": {"uv": [10, 0.5, 4.5, 3.5], "texture": "#main"},
+				"south": {"uv": [10, 0.5, 14.5, 3.5], "texture": "#main"},
+				"west": {"uv": [4.5, 0.5, 10, 3.5], "texture": "#main"},
+				"up": {"uv": [0, 3.5, 4.5, 9], "texture": "#main"},
+				"down": {"uv": [4.5, 3.5, 9, 9], "texture": "#main"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [75, 45, 0],
+			"translation": [0, 2.5, 0],
+			"scale": [0.1, 0.1, 0.1]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [75, 45, 0],
+			"translation": [0, 2.5, 0],
+			"scale": [0.1, 0.1, 0.1]
+		},
+		"firstperson_righthand": {
+			"rotation": [0, 45, 0],
+			"scale": [0.2, 0.2, 0.2]
+		},
+		"firstperson_lefthand": {
+			"rotation": [0, 45, 0],
+			"scale": [0.2, 0.2, 0.2]
+		},
+		"ground": {
+			"scale": [0.1, 0.1, 0.1]
+		},
+		"gui": {
+			"rotation": [20, 135, 0],
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"head": {
+			"translation": [0, -0.375, 0],
+			"scale": [1.51, 1.51, 1.51]
+		},
+		"fixed": {
+			"rotation": [-90, 0, 0],
+			"translation": [0, 0, -16],
+			"scale": [2, 2, 2]
+		}
+	},
+	"groups": [
+		{
+			"name": "rastaman_module",
+			"origin": [8, 8, 8],
+			"color": 0,
+			"children": [0, 1, 2, 3, 4]
+		}
+	]
+}
