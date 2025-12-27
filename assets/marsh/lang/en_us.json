@@ -111,5 +111,6 @@
     "item.marsh.module_farmer": "Farmer Module",
     "item.marsh.module_milker": "Milker Module",
     "item.marsh.copper_golem_rastaman_hat": "Rastaman Hat",
-    "item.marsh.copper_golem_xmas_hat": "Christmas Hat"
+    "item.marsh.copper_golem_xmas_hat": "Christmas Hat",
+    "item.marsh.entity_equip_only": "Can be equipped on:"
 }

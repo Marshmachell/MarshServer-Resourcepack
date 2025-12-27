@@ -112,5 +112,6 @@
     "item.marsh.module_farmer": "Модуль фермера",
     "item.marsh.module_milker": "Модуль дояра",
     "item.marsh.copper_golem_rastaman_hat": "Растаманская шляпа",
-    "item.marsh.copper_golem_xmas_hat": "Рождественская шляпа"
+    "item.marsh.copper_golem_xmas_hat": "Рождественская шляпа",
+    "item.marsh.entity_equip_only": "Можно надеть на:"
 }
